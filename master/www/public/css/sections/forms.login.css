@@ -1,0 +1,9 @@
+.forms-login {
+    margin: auto;
+    width: min-content;
+}
+
+.forms-login .form-group button {
+    width: 100%;
+    margin-top: 10px;
+}

@@ -1,0 +1,19 @@
+.cabinet {
+    padding: 25px 0;
+}
+
+.driver-page-text  {
+    padding-top: 15px;
+}
+
+.driver-page-photo img {
+    min-width: 250px;
+    max-width: 500px;
+    width: 100%;
+    height: 100%;
+}
+
+.driver__info-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
