@@ -1,4 +1,4 @@
-*/*/vendor/
-*/*/composer.lock
-*/volumes/
-/.idea/
+vendor/
+composer.lock
+volumes/
+.idea/
